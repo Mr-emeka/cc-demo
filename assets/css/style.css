@@ -114,6 +114,12 @@ main {
      border: 5px solid #9fb3bf;
      border-radius: 5px 5px 5px 5px;
      zoom: 1.2;
+     background-image: url(../img/dp2.jpg);
+     align-content: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: 50%;
+
 
 }
 
