@@ -117,6 +117,7 @@
 
 main {
     background-color: #090B0D;
+    background-size: cover;
     height: 100vh;
 }
 
@@ -138,8 +139,8 @@ main {
 
 .wrapper {
     display: flex;
-    /* justify-content: space-between; */
     flex-direction: row;
+
 }
 
 .outer {
@@ -192,10 +193,6 @@ p::first-letter {
     grid-auto-rows: minmax(300px, auto);
 }
 
-
-/* .wrap>div {
-     border: 1px solid white;
-} */
 
 .image {
     background-image: url(../img/dp2.jpg);
